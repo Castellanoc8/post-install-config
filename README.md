@@ -25,8 +25,8 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Configure Departments
 - Configure Teams
 - Allow anyone to create tickets
-- Configure Agents(Workers)
-- Configure Users(Customers)
+- Configure Agents (Workers)
+- Configure Users (Customers)
 - Configure SLA
 - Configure Help Topics
 
