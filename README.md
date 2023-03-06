@@ -67,7 +67,7 @@ In the next step, I configured the Departments by going to the Agents section an
 <img src="https://i.imgur.com/zq6w2tA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next step in the process is me configuring the teams in this example. I did that by first making sure I was still in the Admin Panel and going into the Agents section. Once inside the Agents section I clicked on the teams tab and created two new teams and named them Level I Support and Level II Support. The teams need to be created because they allow agents from different departments to be pulled and organized to be able to handle specific issues or help a user via Help Topic or Ticket Finder.
+The next step in the process is me configuring the teams in this example. I did that by first making sure I was still in the Admin Panel and going into the Agents section. Once inside the Agents section I clicked on the teams tab and created two new teams and named them "Level I Support" and "Level II Support". The teams need to be created because they allow agents from different departments to be pulled and organized to be able to handle specific issues or help a user via Help Topic or Ticket Finder.
 </p>
 <br />
 
