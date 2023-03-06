@@ -45,7 +45,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <img src="https://i.imgur.com/pXblpSK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To start off this tutorial, I had to first configure the Roles on osTicket. I did that by going to the Admin Panel, clicking on the Agents tab, and then on the Roles tab. Once I was in the Roles section, I clicked the "Add New Role" tab and created the Supreme Admin Role while also assigning it permissions. The permissions I assigned to the new role will allow certain access to it on osTicket.
+To start off this tutorial, I had to first configure the Roles on osTicket. I did that by going to the Admin Panel, clicking on the Agents tab, and then on the Roles tab. Once I was in the Roles section, I clicked the "Add New Role" tab and created the "Supreme Admin Role" while also assigning it permissions. The permissions I assigned to the new role will allow certain access to that specfic role on osTicket.
 </p>
 <br />
 
