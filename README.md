@@ -115,7 +115,7 @@ This step involved me creating new sample Users(Customers). First, I had to leav
 <img src="https://i.imgur.com/TTiSu3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Moving ahead in this example, I created and configured the company SLAs. SLAs will vary from company to company and are designed to provide a timeframe of when the help desk admin expects the tickets to be resolved/closed. I configured the SLAs by returning the Admin Panel and clicking on the manage section. Once this section loaded, I clicked on the SLA tab and selected "New SLA." Here I created three new SLA plans based on the severity of the problem. The SLA's I created were SEV-A(1 hour, 24/7), SEV-B(4 hours, 24/7), and lastly, SEV-C(8 hours, Business Hours).
+Moving ahead in this tutorial, I created and configured the company SLAs. SLAs will vary from company to company and are designed to provide a timeframe of when the help desk admin expects the tickets to be resolved/closed. I configured the SLAs by returning the Admin Panel and clicking on the manage section. Once this section loaded, I clicked on the SLA tab and selected "New SLA." Here I created three new SLA plans based on the severity of the problem. The SLA's I created were SEV-A(1 hour, 24/7), SEV-B(4 hours, 24/7), and lastly, SEV-C(8 hours, Business Hours).
 </p>
 <br />
 
@@ -129,6 +129,6 @@ Moving ahead in this example, I created and configured the company SLAs. SLAs wi
 <img src="https://i.imgur.com/6ljDeJO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the final step of this example, I created four new Help Topics that would help streamline the end user's experience to ensure topics are correctly assigned and receive a fast response to each ticket made. The Help Topics also determine what Department the ticket is sent to, which agent will have access to the ticket, and what SLA is assigned to that ticket. To create these Help Topics, I had to return to the "Manage" tab inside the Admin Panel and click on Help Topics. Once here, I was able to create the four new Help Topics, which I named "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and the final one was "Password Reset." In reference to my last picture, you can see the Help Topics I created along with the default Help Topics that had already been made when downloading osTicket.
+In the final step of this tutorial, I created four new Help Topics that would help streamline the end user's experience to ensure topics are correctly assigned and receive a fast response to each ticket made. The Help Topics also determine what Department the ticket is sent to, which agent will have access to the ticket, and what SLA is assigned to that ticket. To create these Help Topics, I had to return to the "Manage" tab inside the Admin Panel and click on Help Topics. Once here, I was able to create the four new Help Topics, which I named "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and the final one was "Password Reset." In reference to my last picture, you can see the Help Topics I created along with the default Help Topics that had already been made when downloading osTicket.
 </p>
 <br />
